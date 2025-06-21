@@ -23,7 +23,7 @@
 
 - **📊 Sales Dashboard (Python + Google Sheets)**  
   Automated analysis of real-life sales data, with charts and KPI summary  
-  _[Coming Soon / Link to GitHub repo]_
+
 
 - **🧹 Data Cleaning Challenge**  
   Data wrangling from CSV → Clean tables → Insightful plots using Pandas  
